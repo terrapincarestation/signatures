@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-flow: row wrap;
+
+}
+.textbox {
+  /*padding: 8px;*/
+  text-align: left;
+
+
+}
+.name {
+  color: #A15C43;
+  font-family: brothers;
+  font-size: 1.2em;
+}
+
+.position {
+color: #858C72;
+font-family: brothers;
+}
+
+.email{
+font-family: brothers;
+font-size: .8em;
+}
+
+.phone{
+font-family: brothers;
+font-size: .8em;
+}
