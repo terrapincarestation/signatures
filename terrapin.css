@@ -1,11 +1,13 @@
 .container {
   display: flex;
   flex-flow: row wrap;
+  text-align: left;
 
 }
 .textbox {
   /*padding: 8px;*/
   text-align: left;
+  line-height: 5px;
 
 
 }
@@ -13,21 +15,25 @@
   color: #A15C43;
   font-family: brothers;
   font-size: 1.2em;
+  line-height: 5px;
 }
 
 .position {
 color: #858C72;
 font-family: brothers;
+line-height: 5px;
 }
 
 .email{
 font-family: brothers;
 font-size: .8em;
 color: #A15C43;
+line-height: 5px;
 }
 
 .phone{
 font-family: brothers;
 font-size: .8em;
 color: #A15C43;
+line-height: 5px;
 }
